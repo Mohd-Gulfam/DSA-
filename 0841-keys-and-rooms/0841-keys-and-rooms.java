@@ -3,7 +3,8 @@ class Solution {
         int n = adj.size();
         boolean[] visited = new boolean[n];
         visited[0] = true;
-        bfs(0, adj, visited);
+        // bfs(0, adj, visited);
+        dfs(0,adj,visited);
         for (boolean ele : visited) {
             if (!ele) {
                 return false;
@@ -11,6 +12,14 @@ class Solution {
 
         }
         return true;
+    }
+    private  void dfs(int start, List<List<Integer>> adj, boolean[] visited) {
+        visited[start] = true;
+        for(int ele : adj.get(start)) {
+            if (!visited[ele]) {
+                dfs(ele, adj, visited);
+            }
+        }
     }
     public void bfs(int start, List<List<Integer>> adj, boolean[] visited) {
         Queue<Integer> queue = new LinkedList<>();
