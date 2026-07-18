@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
+| [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
