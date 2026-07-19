@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -56,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
