@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohd-Gulfam/DSA-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Mohd-Gulfam/DSA-/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mohd-Gulfam/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Mohd-Gulfam/DSA-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohd-Gulfam/DSA-/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mohd-Gulfam/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Gulfam/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
