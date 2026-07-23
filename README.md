@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Gulfam/DSA-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Gulfam/DSA-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -23,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mohd-Gulfam/DSA-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
