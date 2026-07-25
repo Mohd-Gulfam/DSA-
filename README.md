@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Gulfam/DSA-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Gulfam/DSA-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Mohd-Gulfam/DSA-/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -170,8 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0239-sliding-window-maximum) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
