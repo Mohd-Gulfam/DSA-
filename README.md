@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mohd-Gulfam/DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohd-Gulfam/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -192,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
