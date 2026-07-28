@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Gulfam/DSA-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Mohd-Gulfam/DSA-/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Gulfam/DSA-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohd-Gulfam/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Gulfam/DSA-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Gulfam/DSA-/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
