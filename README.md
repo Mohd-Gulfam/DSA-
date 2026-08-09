@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mohd-Gulfam/DSA-/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/Mohd-Gulfam/DSA-/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Mohd-Gulfam/DSA-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Mohd-Gulfam/DSA-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mohd-Gulfam/DSA-/tree/master/0785-is-graph-bipartite) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mohd-Gulfam/DSA-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Mohd-Gulfam/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-Gulfam/DSA-/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Mohd-Gulfam/DSA-/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohd-Gulfam/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mohd-Gulfam/DSA-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Mohd-Gulfam/DSA-/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohd-Gulfam/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -279,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mohd-Gulfam/DSA-/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mohd-Gulfam/DSA-/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mohd-Gulfam/DSA-/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
