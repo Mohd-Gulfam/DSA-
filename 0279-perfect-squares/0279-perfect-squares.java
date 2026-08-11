@@ -1,38 +1,27 @@
 class Solution {
+    public boolean isPerfect(int n){
+        int sqrt = (int)(Math.sqrt(n));
+        return (sqrt*sqrt == n);
+    }
     public int numSquares(int n) {
         int[] dp = new int[n + 1];
 
         Arrays.fill(dp, -1);
 
-        return helper(n, dp);
-    }
-
-    private int helper(int n, int[] dp) {
-
-        // Base case
-        if (n == 0) {
-            return 0;
+        for(int i= 1; i<=n; i++){
+            if(isPerfect(i)) dp[i] = 1;
+            else{
+                int min= Integer.MAX_VALUE;
+                for(int j = 1; j*j<i; j++){
+                    int count = dp[j*j] + dp[i-j*j];
+                    min = Math.min(min,count);
+                }
+                dp[i] = min;
+            }
         }
-
-        // Already calculated
-        if (dp[n] != -1) {
-            return dp[n];
-        }
-
-        int ans = Integer.MAX_VALUE;
-
-        // Try every perfect square
-        for (int i = 1; i * i <= n; i++) {
-
-            int square = i * i;
-
-            int result = helper(n - square, dp);
-
-            ans = Math.min(ans, 1 + result);
-        }
-
-        dp[n] = ans;
-
         return dp[n];
     }
+
+    
+
 }
