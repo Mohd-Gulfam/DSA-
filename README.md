@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Gulfam/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Mohd-Gulfam/DSA-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mohd-Gulfam/DSA-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mohd-Gulfam/DSA-/tree/master/0383-ransom-note) |
+| [0443-string-compression](https://github.com/Mohd-Gulfam/DSA-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohd-Gulfam/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
