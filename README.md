@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohd-Gulfam/DSA-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Mohd-Gulfam/DSA-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mohd-Gulfam/DSA-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Mohd-Gulfam/DSA-/tree/master/0383-ransom-note) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohd-Gulfam/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Mohd-Gulfam/DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mohd-Gulfam/DSA-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Mohd-Gulfam/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohd-Gulfam/DSA-/tree/master/0070-climbing-stairs) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohd-Gulfam/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mohd-Gulfam/DSA-/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Mohd-Gulfam/DSA-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mohd-Gulfam/DSA-/tree/master/0125-valid-palindrome) |
