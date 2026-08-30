@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohd-Gulfam/DSA-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mohd-Gulfam/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mohd-Gulfam/DSA-/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohd-Gulfam/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0239-sliding-window-maximum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mohd-Gulfam/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0713-subarray-product-less-than-k) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mohd-Gulfam/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Gulfam/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Mohd-Gulfam/DSA-/tree/master/0493-reverse-pairs) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Mohd-Gulfam/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0713-subarray-product-less-than-k) |
