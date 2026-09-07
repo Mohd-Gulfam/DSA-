@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Mohd-Gulfam/DSA-/tree/master/0457-circular-array-loop) |
+| [0485-max-consecutive-ones](https://github.com/Mohd-Gulfam/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Mohd-Gulfam/DSA-/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0713-subarray-product-less-than-k) |
