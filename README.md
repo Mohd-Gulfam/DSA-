@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Gulfam/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Mohd-Gulfam/DSA-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1207-unique-number-of-occurrences](https://github.com/Mohd-Gulfam/DSA-/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Mohd-Gulfam/DSA-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Gulfam/DSA-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Mohd-Gulfam/DSA-/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/Mohd-Gulfam/DSA-/tree/master/1207-unique-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
