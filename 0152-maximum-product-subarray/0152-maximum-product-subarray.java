@@ -5,18 +5,14 @@ class Solution {
         int ans = nums[0];
 
         for (int i = 1; i < nums.length; i++) {
-            int x = nums[i];
-
-            if (x < 0) {
-                int temp = max;
-                max = min;
-                min = temp;
-            }
-
-            max = Math.max(x, max * x);
-            min = Math.min(x, min * x);
-
-            ans = Math.max(ans, max);
+            int v1 = nums[i];
+            int v2 = max * nums[i];
+            int v3 = min*nums[i];
+            max = Math.max(v1, Math.max(v2,v3));
+            min = Math.min(v1, Math.min(v2,v3));
+            ans = Math.max(ans, Math.max(min,max));
+            
+            
         }
 
         return ans;
