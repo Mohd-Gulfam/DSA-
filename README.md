@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohd-Gulfam/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Mohd-Gulfam/DSA-/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohd-Gulfam/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Mohd-Gulfam/DSA-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mohd-Gulfam/DSA-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Mohd-Gulfam/DSA-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
