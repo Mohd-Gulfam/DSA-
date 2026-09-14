@@ -1,41 +1,29 @@
 import java.util.HashMap;
 
 class Solution {
-    public int subarraySum(int[] arr, int k) {
+    public int subarraySum(int[] nums, int k) {
 
-        int n = arr.length;
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        // prefix sum 0 occurs once
+        map.put(0, 1);
+
+        int prefix = 0;
         int count = 0;
 
-        int[] prefix = new int[n];
-        prefix[0] = arr[0];
+        for (int i = 0; i < nums.length; i++) {
 
-        // Build prefix sum array
-        for (int i = 1; i < n; i++) {
-            prefix[i] = prefix[i - 1] + arr[i];
-        }
+            // current prefix sum
+            prefix += nums[i];
 
-        HashMap<Integer, Integer> hm = new HashMap<>();
+            // required previous prefix
+            int required = prefix - k;
 
-        for (int j = 0; j < n; j++) {
+            // if required prefix exists
+            count += map.getOrDefault(required, 0);
 
-            // Case 1: Subarray starts from index 0
-            if (prefix[j] == k) {
-                count++;
-            }
-
-            // Case 2: Check if (prefix[j] - k) exists
-            int val = prefix[j] - k;
-
-            if (hm.containsKey(val)) {
-                count += hm.get(val);
-            }
-
-            // Store current prefix sum
-            if (hm.containsKey(prefix[j])) {
-               hm.put(prefix[j], hm.get(prefix[j]) + 1);
-            } else {
-               hm.put(prefix[j], 1);
-            }
+            // store current prefix
+            map.put(prefix, map.getOrDefault(prefix, 0) + 1);
         }
 
         return count;
