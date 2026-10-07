@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mohd-Gulfam/DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mohd-Gulfam/DSA-/tree/master/0062-unique-paths) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mohd-Gulfam/DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mohd-Gulfam/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Mohd-Gulfam/DSA-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mohd-Gulfam/DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0151-reverse-words-in-a-string) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Mohd-Gulfam/DSA-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mohd-Gulfam/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mohd-Gulfam/DSA-/tree/master/0079-word-search) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
