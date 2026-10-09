@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohd-Gulfam/DSA-/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohd-Gulfam/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohd-Gulfam/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohd-Gulfam/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Mohd-Gulfam/DSA-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohd-Gulfam/DSA-/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohd-Gulfam/DSA-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
