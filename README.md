@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Mohd-Gulfam/DSA-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohd-Gulfam/DSA-/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Gulfam/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohd-Gulfam/DSA-/tree/master/0011-container-with-most-water) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mohd-Gulfam/DSA-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
