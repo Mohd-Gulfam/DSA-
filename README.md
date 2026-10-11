@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Mohd-Gulfam/DSA-/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohd-Gulfam/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -496,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohd-Gulfam/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohd-Gulfam/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
