@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Mohd-Gulfam/DSA-/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohd-Gulfam/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohd-Gulfam/DSA-/tree/master/0011-container-with-most-water) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Mohd-Gulfam/DSA-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
