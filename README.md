@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohd-Gulfam/DSA-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Mohd-Gulfam/DSA-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mohd-Gulfam/DSA-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mohd-Gulfam/DSA-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Mohd-Gulfam/DSA-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0063-unique-paths-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Mohd-Gulfam/DSA-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mohd-Gulfam/DSA-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mohd-Gulfam/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mohd-Gulfam/DSA-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0090-subsets-ii) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohd-Gulfam/DSA-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
