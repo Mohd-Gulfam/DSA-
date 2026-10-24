@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Mohd-Gulfam/DSA-/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/Mohd-Gulfam/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Mohd-Gulfam/DSA-/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohd-Gulfam/DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohd-Gulfam/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohd-Gulfam/DSA-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mohd-Gulfam/DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Mohd-Gulfam/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohd-Gulfam/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Mohd-Gulfam/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohd-Gulfam/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mohd-Gulfam/DSA-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohd-Gulfam/DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
