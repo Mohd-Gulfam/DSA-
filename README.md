@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Mohd-Gulfam/DSA-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Mohd-Gulfam/DSA-/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Mohd-Gulfam/DSA-/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mohd-Gulfam/DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Mohd-Gulfam/DSA-/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Mohd-Gulfam/DSA-/tree/master/0389-find-the-difference) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mohd-Gulfam/DSA-/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Mohd-Gulfam/DSA-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Mohd-Gulfam/DSA-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mohd-Gulfam/DSA-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mohd-Gulfam/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Mohd-Gulfam/DSA-/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
