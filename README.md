@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Gulfam/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mohd-Gulfam/DSA-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mohd-Gulfam/DSA-/tree/master/2965-find-missing-and-repeated-values) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohd-Gulfam/DSA-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mohd-Gulfam/DSA-/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mohd-Gulfam/DSA-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohd-Gulfam/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mohd-Gulfam/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohd-Gulfam/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohd-Gulfam/DSA-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Gulfam/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
